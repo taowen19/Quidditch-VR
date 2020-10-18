@@ -1,7 +1,7 @@
 # Quidditch-VR
 
-GoogleVR
-Cardboard
-Unity3d
-Collision Detection
+GoogleVR,
+Cardboard,
+Unity3d,
+Collision Detection,
 Gaze
